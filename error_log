@@ -1,0 +1,35 @@
+[25-Aug-2022 05:00:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php:2) in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 28
+[25-Aug-2022 06:30:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:33:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:33:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:43:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:44:38 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 06:44:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:46:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:46:05 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 06:46:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:46:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:48:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:48:24 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 06:48:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:48:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:49:00 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 06:49:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:52:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 06:57:01 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 06:57:38 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 06:58:40 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 07:01:49 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 07:02:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 07:07:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 07:07:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 07:07:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 07:08:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 07:09:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mrgenericfoods/public_html/caplus.in/deshraj/thanks.php on line 57
+[25-Aug-2022 07:10:52 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 53
+[25-Aug-2022 07:10:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php:14) in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 68
+[25-Aug-2022 07:11:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php:55) in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 59
+[25-Aug-2022 08:35:38 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 56
+[25-Aug-2022 08:50:42 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 56
+[25-Aug-2022 08:52:46 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 55
+[25-Aug-2022 09:49:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mrgenericfoods/public_html/caplus.in/deshraj/caform.php on line 81
